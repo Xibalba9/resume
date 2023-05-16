@@ -1,2 +1,3 @@
-# resume
-https://xibalba9.github.io/resume/
+# Resume
+
+- https://xibalba9.github.io/resume/

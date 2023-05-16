@@ -10,6 +10,10 @@
     width: 65%;
 }
 
+.companies {
+    color: rgb(144, 82, 141);
+}
+
 body{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 12px;
@@ -84,7 +88,4 @@ h1, h2, h3 {
 }
 #mainLeft {
     border-right: 1px solid rgba(78, 24, 75,.3);
-}
-#companies {
-    color: rgb(144, 82, 141);
 }
