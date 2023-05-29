@@ -1,7 +1,6 @@
 .container {
     display: flex;
-    align-items: stretch
-    
+    align-items: stretch;
 }
 .left-column {
     width: 35%;
@@ -31,6 +30,10 @@ ul {
     list-style: disc ;
 }
 
+li {
+    font-size: 11px;
+}
+
 section {
     margin: auto 1em 4em 2em;
 }
@@ -41,9 +44,9 @@ a {
 }
 
 a:hover {
-    color: rgb(78, 24, 75);
+    color: rgb(144, 82, 141);
     text-decoration: underline;
-  }
+}
 
 i {
     margin-right: .5em;
